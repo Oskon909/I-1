@@ -25,3 +25,4 @@ def decrypt_text_caesar(text: str, shift: int) -> str:
 print(text_caesar('Улукбек', 2))
 print(decrypt_text_caesar('Горилла', 2))
 
+print('Osmond')
